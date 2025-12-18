@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi 👋, I'm Kristo Praveejiny<br>🚀 Passionate Business Analyst & Full-Stack Developer | 📍 Sri Lanka<br><br>I am currently pursuing a BSc in Industrial Information and Technology at Uva Wellassa University, Sri Lanka. <br>With a strong foundation in business analysis and full-stack development,<br> I am passionate about leveraging technology to solve real-world problems.
+Hi 👋, I'm Kristo Praveejiny<br>🚀 Passionate Business Analyst & Quality Assurance | 📍 Sri Lanka<br><br>I am currently pursuing a BSc in Industrial Information and Technology at Uva Wellassa University, Sri Lanka. <br>With a strong foundation in business analysis and full-stack development,<br> I am passionate about leveraging technology to solve real-world problems.
 
 🌱 Interests:
 - Business Analysis  
-- Full-Stack Development  
+- QA 
 - System Design  
-- AI & Technology  
+- Full-Stack Development  
 
 
 ## 🌐 Socials:
