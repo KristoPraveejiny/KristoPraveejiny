@@ -1,11 +1,20 @@
-# 💫 About Me:
-Hi 👋, I'm Kristo Praveejiny<br>🚀 Passionate Business Analyst & Quality Assurance | 📍 Sri Lanka<br><br>I am currently pursuing a BSc in Industrial Information and Technology at Uva Wellassa University, Sri Lanka. <br>With a strong foundation in business analysis and full-stack development,<br> I am passionate about leveraging technology to solve real-world problems.
+Hi 👋 I'm Kristo Praveejiny  
+🚀 Aspiring QA Engineer | Business Analyst | Full-Stack Developer  
+📍 Sri Lanka  
+
+I am pursuing a BSc (Hons) in Industrial Information Technology at Uva Wellassa University, Sri Lanka.
+
+Passionate about software quality,  and technology-driven solutions. I enjoy exploring software testing practices, building reliable systems, and solving real-world problems through technology.
 
 🌱 Interests:
-- Business Analysis  
-- QA 
-- System Design  
-- Full-Stack Development  
+- Quality Assurance & Software Testing
+- Test Automation
+- API Testing
+- Full-Stack Development
+- System Design
+
+💻 Skills:
+Java | Selenium | TestNG | Postman | Manual Testing | HTML/CSS | JavaScript | PHP | MySQL | Git  
 
 
 ## 🌐 Socials:
